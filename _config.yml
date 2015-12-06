@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://jayelee.github.io
 title: Jaye Lee
-tagline: awkwardness is a virtue
-description: My awesome new site
+tagline:   awkwardness is a virtue
+description: awkwardness is a virtue
 paginate: 20
