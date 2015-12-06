@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jayelee.github.io
+title: Jaye Lee
+tagline: awkwardness is a virtue
+description: My awesome new site
+paginate: 20
