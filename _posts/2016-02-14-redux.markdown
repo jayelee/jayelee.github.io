@@ -1,0 +1,8 @@
+---
+published: true
+title: redux
+layout: post
+---
+Something that brings great value, resolves pain, makes people smile, something that makes people want to go for it every day, because it brings much joy. Long term joy from purest of intentions, not the fleeting escape from reality. Simple and makes people want to be the best version of themselves.
+
+not the first time i've thought about this. it goes back to my original idea of building overcome.
