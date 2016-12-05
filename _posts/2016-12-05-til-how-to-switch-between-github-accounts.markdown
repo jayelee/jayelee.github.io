@@ -2,6 +2,7 @@
 published: true
 title: TIL: How to switch between github accounts
 layout: post
+tags: [TIL, git]
 ---
 Incredible content from:
 
