@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://jayelee.github.io
 title: Jaye Lee
-tagline:   awkwardness is a virtue
-description: awkwardness is a virtue
+tagline:   I'm old enough to be your mother, cool enough to be learning programming
+description: I'm old enough to be your mother, cool enough to be learning programming
 paginate: 20
