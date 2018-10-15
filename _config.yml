@@ -12,6 +12,6 @@ excerpt_separator:
 pygments: true
 markdown: kramdown
 url: http://jayelee.github.io
-tagline: I'm old enough to be your mother, cool enough to be learning programming
+tagline: 
 description: 
 paginate: 20
