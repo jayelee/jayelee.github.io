@@ -1,9 +1,8 @@
 ---
-published: true
-title: TIL: How to switch between github accounts
-layout: post
-tags: [TIL, git]
+title: 2016 12 05 Til How To Switch Between Github Accounts
+date: 2018-10-15 14:30:52.449000000 Z
 ---
+
 Incredible content from:
 
 <https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574>

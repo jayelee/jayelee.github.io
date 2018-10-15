@@ -1,8 +1,17 @@
-excerpt_separator: ""
+---
+title: Jaye Lee
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+excerpt_separator: ''
 pygments: true
 markdown: kramdown
 url: http://jayelee.github.io
-title: Jaye Lee
-tagline:   I'm old enough to be your mother, cool enough to be learning programming
+tagline: I'm old enough to be your mother, cool enough to be learning programming
 description: I'm old enough to be your mother, cool enough to be learning programming
 paginate: 20
